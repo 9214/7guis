@@ -176,10 +176,10 @@ const implementations = [
   {
     title: 'Red',
     technologies: ['Red'],
-    author: 'Gregg Irwin',
-    authorLink: 'https://github.com/greggirwin',
-    link: 'https://github.com/greggirwin/7guis/tree/master/Red',
-    src: 'https://github.com/greggirwin/7guis/tree/master/Red',
+    author: 'Vladimir Vasilyev',
+    authorLink: 'https://github.com/9214',
+    link: 'https://github.com/9214/7guis-red',
+    src: 'https://github.com/9214/7guis-red',
   },
   {
     title: 'Phix',
